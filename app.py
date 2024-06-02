@@ -150,8 +150,8 @@ def get_client_info(n_clicks, trainings_data, name):
             html.Li(f"Trainings requested: {len(trainings_df)}"),
             html.Li(f"Trainings completed: {completed_trainings}"),
             html.Li(f"Education costs: {education_costs} meowcoins"),
-            html.Li(f"Revenue from clients: {received_revenue} meowcoins"),
-            html.Li(f"Total revenue: {total_revenue} meowcoins", className="total-revenue")
+            html.Li(f"Revenue from client: {received_revenue} meowcoins"),
+            html.Li(f"Total revenue from client: {total_revenue} meowcoins", className="total-revenue")
         ],
         className="overall-stats-list"
     )

@@ -183,6 +183,6 @@ app_layout = html.Div([
                     className="text-align-center"
                 )
             ])             
-        ], width=4, className="border-left")
+        ], width=3, className="border-left")
     ])
 ])
