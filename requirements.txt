@@ -1,0 +1,11 @@
+dash==2.16.1
+dash-bootstrap-components==1.4.1
+dash-core-components==2.0.0
+dash-extensions==1.0.14
+dash-html-components==2.0.0
+dash-table==5.0.0
+pandas==2.2.0
+plotly==5.14.1
+fastapi==0.108.0
+uvicorn==0.25.0
+starlette==0.32.0.post1
